@@ -5,16 +5,16 @@
 """
 
 if __name__ == '__main__':
-    print "hello world"
+    print("hello world")
     a = True
     aa = 3
     bb = 4
     cc = 5
     total = aa + bb + \
                     cc
-    print "hello github"
-    print total
+    print("hello github")
+    #print total
     if a:
-        print "Answer True"
+        print("Answer True")
     else:
-        print "Answer False"
+        print("Answer False")
