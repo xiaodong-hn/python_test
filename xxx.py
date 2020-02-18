@@ -12,6 +12,7 @@ if __name__ == '__main__':
     cc = 5
     total = aa + bb + \
                     cc
+    print "hello github"
     print total
     if a:
         print "Answer True"
